@@ -1,9 +1,8 @@
 {
-    "6° ano": 1,
-    "9° ano": 2 ,
-    "1° ano EM": 3,
-    "2° ano EM": 4,
-    "3° ano EM": 5,
-    
+    "6° ano": Geografia,
+    "9° ano": Portugues ,
+    "1° ano EM": PENSAMENTO COMPUTACIONAL,
+    "2° ano EM": Biotecnologio,
+    "3° ano EM": Educação financeira,
     
 }
